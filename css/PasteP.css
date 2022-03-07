@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   font-size: 25px;
+  }
+  
+  body {
+    
+    font-family: 'calibri';
+  }
+  
+  header {
+    background: url('../imagenes/fondocab.jpg');
+    height:auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+
+  }
+  
+  section {
+    max-width:1000px;
+    margin: auto;
+    padding: 30px 0;
+
+  }
+
+  .logo{
+    height: 180px;
+    width: 180px;
+    position: static;
+    bottom: 4px;
+   
+  }
+
+  h1{
+    display: inline-block;
+    position: static;
+    bottom: 3px;
+    left:30px;
+    font-size: 60px;
+    
+  }
+
+  .conte {
+    text-align: center;
+  }
+  
+
+  
+  .conte a {
+    color: white;
+    text-decoration: none;
+    background: #df86d3;
+    padding: 4px 10px;
+    border-radius: 30px;
+    font-size: 30px;
+    margin: 10px;
+  }
+  
+h2{
+font-size: 45px;
+
+}
+
+p{
+  font-size: 30px;
+}
+
+
+
+  

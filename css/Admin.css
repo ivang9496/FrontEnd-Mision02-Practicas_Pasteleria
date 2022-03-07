@@ -1,0 +1,140 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    
+    font-family: 'calibri';
+  }
+  
+  header {
+    background: url('../imagenes/fondocab.jpg');
+    height:auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+
+  }
+  
+  section {
+    max-width:1000px;
+    margin: auto;
+    padding: 30px 0;
+    padding-bottom: 25px;
+
+  }
+
+  .logo{
+    height: 180px;
+    width: 180px;
+    position: static;
+    bottom: 4px;
+   
+  }
+
+  h1{
+    display: inline-block;
+    position: static;
+    bottom: 3px;
+    left:30px;
+    font-size: 60px;
+    
+  }
+
+  .conte {
+    text-align: center;
+  }
+  
+
+  
+  .conte a {
+    color: white;
+    text-decoration: none;
+    background: #df86d3;
+    padding: 4px 10px;
+    border-radius: 30px;
+    font-size: 30px;
+    margin: 10px;
+  }
+  
+  h2{
+      margin: auto;
+    font-size: 60px;
+      float: center;
+      size: 30px;
+      text-align: center;}
+
+      img{
+        height: 100px;
+        width: 100px;
+        display: block;
+    }
+    
+    
+    #tabla{
+      margin: auto;
+  }
+    .sabor,.decor{
+        text-align: center;
+    }
+    
+    .divsabor{
+    display: inline-block
+        
+    }
+    
+    .divsabor1{
+        display: inline-block;
+    }
+    
+    .divsabor2{
+        display: inline-block;
+    }
+    
+    .divsabor3{
+        display: inline-block;
+    }
+    
+    
+    .divsabor4{
+        display: inline-block;
+    }
+    
+    .divdecoracion{
+        display: inline-block;
+       
+    }
+    .divdecoracion1{
+        display: inline-block;
+    }
+    
+    .divdecoracion2{
+        display: inline-block;
+       
+    }
+    .divdecoracion3{
+        display: inline-block;
+    }
+    .divdecoracion4{
+        display: inline-block;
+    }
+    
+    h3{
+      font-size: 30px;
+      text-align: center;
+    }
+    table {
+    
+        border-collapse: separate;
+        border-spacing:  5px 15px;
+        border:1px solid #5f0d0d;
+        margin: auto;
+        
+    }
+    
+    th{
+        border-bottom:2px solid #07365f;
+        margin-left: 5%;
+    }
